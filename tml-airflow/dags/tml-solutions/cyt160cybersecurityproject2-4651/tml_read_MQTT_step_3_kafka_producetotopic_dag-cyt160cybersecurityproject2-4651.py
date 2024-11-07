@@ -28,7 +28,7 @@ default_args = {
   'enabletls': '1',
   'microserviceid' : '',
   'producerid' : 'iotsolution',  
-  'topics' : 'iot-raw-data', # *************** This is one of the topic you created in SYSTEM STEP 2
+  'topics' : 'cisco-network-mainstream', # *************** This is one of the topic you created in SYSTEM STEP 2
   'identifier' : 'TML solution',  
   'mqtt_broker' : 'ed4fba49c34c447db1c7013e18097659.s1.eu.hivemq.cloud', # <<<****** Enter MQTT broker i.e. test.mosquitto.org
   'mqtt_port' : '', # <<<******** Enter MQTT port i.e. 1883, 8883    (for HiveMQ cluster)
