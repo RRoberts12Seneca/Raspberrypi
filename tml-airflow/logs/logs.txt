@@ -10258,3 +10258,4 @@ origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspbe
 [ERROR 2024-11-11_19:48:08] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cyt160cybersecurityproject2-4651.py 'StreamTopicDetails'
 [INFO 2024-11-11_19:51:37] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
 [INFO 2024-11-11_19:52:41] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
+[INFO 2024-11-11_19:53:44] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
