@@ -10336,3 +10336,13 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2024-11-14_21:06:13] TML Solution Studio: Github Remote Status: origin	https://github.com/RRoberts12Seneca/raspberrypi.git (fetch)
 origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspberrypi.git (push)
+[INFO 2024-11-14_21:08:26] TML Solution Studio: TML Project Creation: Creating new TML project: /raspberrypi/tml-airflow/dags/tml-solutions/cyt160cybersecurityprojectgr2-4651
+[INFO 2024-11-14_21:08:28] TML Solution Studio: git pull --rebase --autostash origin main Status: From https://github.com/RRoberts12Seneca/raspberrypi
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[INFO 2024-11-14_21:09:10] TML Solution Studio: Starting Git commit process for project: cyt160cybersecurityprojectgr2-4651
+[INFO 2024-11-14_21:09:10] TML Solution Studio: git commit -a Status for project cyt160cybersecurityprojectgr2-4651: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-11-14_21:09:11] TML Solution Studio: git push origin main Status: Everything up-to-date
+[INFO 2024-11-14_21:09:11] TML Solution Studio: git add . Status: 
+[INFO 2024-11-14_21:09:11] TML Solution Studio: git commit -a Status for project cyt160cybersecurityprojectgr2-4651: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-11-14_21:09:11] TML Solution Studio: git push Status for project cyt160cybersecurityprojectgr2-4651: Everything up-to-date
