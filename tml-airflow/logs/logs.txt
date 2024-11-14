@@ -10346,3 +10346,4 @@ Already up to date.
 [INFO 2024-11-14_21:09:11] TML Solution Studio: git add . Status: 
 [INFO 2024-11-14_21:09:11] TML Solution Studio: git commit -a Status for project cyt160cybersecurityprojectgr2-4651: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-11-14_21:09:11] TML Solution Studio: git push Status for project cyt160cybersecurityprojectgr2-4651: Everything up-to-date
+[INFO 2024-11-14_21:30:20] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
