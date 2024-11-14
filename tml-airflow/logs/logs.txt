@@ -10351,3 +10351,4 @@ Already up to date.
 [INFO 2024-11-14_21:30:40] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
 [INFO 2024-11-14_21:30:51] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
 [INFO 2024-11-14_21:30:55] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
+[INFO 2024-11-14_21:30:59] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
