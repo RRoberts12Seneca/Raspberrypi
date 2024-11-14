@@ -10359,3 +10359,4 @@ Already up to date.
 [INFO 2024-11-14_21:31:42] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cyt160cybersecurityproject2-4651.py
 [ERROR 2024-11-14_21:43:15] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cyt160cybersecurityproject2-4651.py 'StreamTopicDetails'
 [INFO 2024-11-14_21:48:13] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
+[INFO 2024-11-14_21:49:16] Deleting topic cisco-network-process in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
