@@ -10405,3 +10405,4 @@ origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspbe
 [INFO 2024-11-18_19:30:37] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
 [INFO 2024-11-18_19:30:39] Deleting topic cisco-network-process in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
 [INFO 2024-11-18_19:30:41] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
+[INFO 2024-11-18_19:30:43] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
