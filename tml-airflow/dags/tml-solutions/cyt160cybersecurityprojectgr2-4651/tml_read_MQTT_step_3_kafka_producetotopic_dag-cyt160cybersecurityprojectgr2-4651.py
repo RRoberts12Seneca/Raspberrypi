@@ -130,6 +130,7 @@ def producetokafka(value, tmlid, identifier,producerid,maintopic,substream,args)
  try:
     result=maadstml.viperproducetotopic(VIPERTOKEN,VIPERHOST,VIPERPORT,maintopic,producerid,enabletls,delay,'','', '',0,inputbuf,substream,
                                         topicid,identifier)
+   print("result=",result)
  except Exception as e:
     print("ERROR:",e)
 
