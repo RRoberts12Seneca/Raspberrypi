@@ -103,6 +103,7 @@ def mqttserverconnect():
    client.on_subscribe = on_subscribe
    client.on_message = on_message
    b=client.subscribe(default_args['mqtt_subscribe_topic'], qos=1)      
+   print("b=",b)
    if 'MQTT_ERR_SUCCESS' not in str(b):
            print("ERROR Making a connection to HiveMQ:",b)
            tsslogging.locallogs("ERROR", "Cannot connect to MQTT broker in {} - {}".format(os.path.basename(__file__),str(b))) 
