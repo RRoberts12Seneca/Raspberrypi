@@ -63,6 +63,7 @@ def on_subscribe(client, userdata, mid, granted_qos, properties=None):
   print("Subscribed: " + str(mid) + " " + str(granted_qos))
 
 def on_message(client, userdata, msg):
+  print("on message")
   data=json.loads(msg.payload.decode("utf-8"))
   datad = json.dumps(data)
   readdata(datad)
