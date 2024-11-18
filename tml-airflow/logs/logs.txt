@@ -10402,3 +10402,4 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2024-11-18_19:07:00] TML Solution Studio: Github Remote Status: origin	https://github.com/RRoberts12Seneca/raspberrypi.git (fetch)
 origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspberrypi.git (push)
+[INFO 2024-11-18_19:30:37] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
