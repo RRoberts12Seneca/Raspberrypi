@@ -10411,3 +10411,4 @@ origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspbe
 [INFO 2024-11-18_19:30:56] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cyt160cybersecurityprojectgr2-4651.py
 [INFO 2024-11-18_19:30:58] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cyt160cybersecurityprojectgr2-4651.py
 [INFO 2024-11-18_19:31:07] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cyt160cybersecurityprojectgr2-4651.py
+[INFO 2024-11-18_19:31:13] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cyt160cybersecurityprojectgr2-4651.py
