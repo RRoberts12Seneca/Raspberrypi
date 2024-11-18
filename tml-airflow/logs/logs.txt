@@ -10418,3 +10418,4 @@ origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspbe
 [INFO 2024-11-18_20:03:49] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cyt160cybersecurityprojectgr2-4651.py
 [INFO 2024-11-18_20:05:48] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cyt160cybersecurityprojectgr2-4651.py
 [INFO 2024-11-18_20:08:02] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cyt160cybersecurityprojectgr2-4651.py
+[INFO 2024-11-18_21:32:01] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
