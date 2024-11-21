@@ -10480,3 +10480,4 @@ origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspbe
 [INFO 2024-11-21_17:25:08] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
 [INFO 2024-11-21_17:25:11] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityprojectgr2-4651.py
 [INFO 2024-11-21_17:25:20] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cyt160cybersecurityprojectgr2-4651.py
+[INFO 2024-11-21_17:25:22] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cyt160cybersecurityprojectgr2-4651.py
