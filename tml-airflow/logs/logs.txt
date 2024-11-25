@@ -10507,3 +10507,4 @@ origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspbe
 [INFO 2024-11-25_20:10:12] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
 [INFO 2024-11-25_20:51:30] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
 [INFO 2024-11-25_20:54:44] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
+[INFO 2024-11-25_20:57:59] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
