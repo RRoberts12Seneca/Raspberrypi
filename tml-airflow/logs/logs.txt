@@ -10504,3 +10504,4 @@ branch.main.merge=refs/heads/main
 origin	https://<personal access token hidden>@github.com/Rroberts12Seneca/raspberrypi.git (push)
 [INFO 2024-11-25_20:05:55] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
 [INFO 2024-11-25_20:09:09] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
+[INFO 2024-11-25_20:10:12] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-cyt160cybersecurityproject2-4651.py
